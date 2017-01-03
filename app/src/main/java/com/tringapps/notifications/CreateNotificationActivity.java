@@ -27,7 +27,7 @@ public class CreateNotificationActivity extends AppCompatActivity {
         noti.flags |= Notification.FLAG_AUTO_CANCEL;
 
         notificationManager.notify(0,noti);
-
+kbjbjmbjbjhb
 
     }
 }
