@@ -14,6 +14,7 @@ public class NotificationReceiverActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.result);
+        //first line of code
 
     }
 }
